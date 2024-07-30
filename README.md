@@ -1,7 +1,7 @@
 ### BOAS VINDAS AO MEU PERFIL
 
-- Estou estudando alura
-- estou me desenvolvendo ma çinguagem javascript
+- Estou estudando [alura] (https://www.alura.com.br)
+- estou me desenvolvendo na linguagem javascript
 - uso meus espaços para pensar em mim e na minha vida
 
 ### caso queria entrar em contato 
