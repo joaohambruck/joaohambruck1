@@ -7,3 +7,6 @@
 ### caso queria entrar em contato 
 
 @joaohambruckseixas@gmail.com
+
+
+![geto-suguru-jujutsu-kaisen](https://github.com/user-attachments/assets/bf9706c7-c66d-4691-b26d-9ef5dc85329c)
